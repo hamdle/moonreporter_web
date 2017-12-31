@@ -1,0 +1,12 @@
+name: Moon Reporter
+type: theme
+description: 'Drupal 8 theme for Moon Reporter video game.'
+core: 8.x
+base theme: stable
+libraries:
+  - moonreporter/theme-css
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'Sidebar first'
+  footer: Footer

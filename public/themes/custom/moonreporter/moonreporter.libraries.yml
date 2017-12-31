@@ -1,0 +1,5 @@
+theme-css:
+  version: VERSION
+  css:
+    component:
+      css/style.css: { weight: -10 }
