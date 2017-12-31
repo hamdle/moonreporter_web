@@ -2,7 +2,7 @@ name: Moon Reporter
 type: theme
 description: 'Drupal 8 theme for Moon Reporter video game.'
 core: 8.x
-base theme: stable
+
 libraries:
   - moonreporter/theme-css
 regions:
