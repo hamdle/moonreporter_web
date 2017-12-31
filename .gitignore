@@ -2,10 +2,10 @@
 /drush/contrib/
 /vendor/
 /public/core/
-/public/modules/contrib/
-/public/themes/contrib/
+#/public/modules/contrib/
+#/public/themes/contrib/
 /public/profiles/contrib/
-/public/libraries/
+#/public/libraries/
 
 # Ignore sensitive information
 /public/sites/*/settings.php
