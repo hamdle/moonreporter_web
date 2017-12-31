@@ -26,3 +26,6 @@
 
 # Ignore Drupal 8 config directory
 /config/
+
+# Ignore composer lock files
+composer.lock
